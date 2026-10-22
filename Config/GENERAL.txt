@@ -1,5 +1,5 @@
 #科学插件调整
-CONFIG_PACKAGE_luci-app-homeproxy=y
+#CONFIG_PACKAGE_luci-app-homeproxy is not set
 #增加插件
 CONFIG_TARGET_OPTIMIZATION="-O3 -pipe -mcpu=cortex-a53"
 CONFIG_PACKAGE_luci-app-autoreboot=y
